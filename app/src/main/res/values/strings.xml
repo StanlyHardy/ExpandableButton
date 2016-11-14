@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Expandable Button Demo</string>
+    <string name="clicked_hike">Clicked Hike</string>
+    <string name="clicked_youtube">Clicked Youtube</string>
+    <string name="clicked_twitter">Clicked Twitter</string>
+    <string name="clicked_instagram">Clicked Instagram</string>
+</resources>

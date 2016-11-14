@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableButton">
+        <attr name="hide_text" format="string"/>
+        <attr name="expandable_area_color" format="color"/>
+        <attr name="icon_button_color" format="color"/>
+        <attr name="expandable_button_size" format="dimension"/>
+        <attr name="button_icon" format="integer"/>
+        <attr name="button_icon_width" format="dimension"/>
+        <attr name="button_icon_height" format="dimension"/>
+        <attr name="hide_text_size" format="dimension"/>
+        <attr name="hide_text_color" format="color"/>
+    </declare-styleable>
+    <string name="app_name">Expandable Button</string>
+</resources>
